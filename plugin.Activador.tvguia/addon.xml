@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.Activador.tvguia" name="[COLOR green]Activador -PLD-TVGUIAHD[/COLOR]" version="2.1.0.3" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.1"/>
+	<import addon="script.module.beautifulsoup" version="3.2.1"/>
+  <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Activador para TVGUIAHD [COLOR blue]ProyectoLuzDigital[/COLOR]</summary>
+    <description>Activador para TVGUIA para [COLOR blue]ProyectoLuzDigital[/COLOR]. Creado por el GrupoPLD </description>
+    <platform>all</platform>
+  </extension>
+</addon>
