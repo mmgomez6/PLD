@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.Activador.player.PLD" name="[COLOR green]Activador PLAYER.PROYECTOLUZDIGITAL[/COLOR]" version="2.2.8.4" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.1"/>
+	<import addon="script.module.beautifulsoup" version="3.2.1"/>
+  <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Activador para PLAYER.PROYECTOLUZDIGITAL [COLOR blue]ProyectoLuzDigital[/COLOR]</summary>
+    <description>Activador PLAYER.PROYECTOLUZDIGITAL para [COLOR blue]ProyectoLuzDigital[/COLOR]. Creado por El Grupo PLD,  </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.Activador.PLD-Visiontv" name="[COLOR green]Activador PLD-Visiontv[/COLOR]" version="1.0.9.5" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.1"/>
+	<import addon="script.module.beautifulsoup" version="3.2.1"/>
+  <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Activador para PLD-Visiontv [COLOR blue]ProyectoLuzDigital[/COLOR]</summary>
+    <description>Activador PLD-Visiontv para [COLOR blue]ProyectoLuzDigital[/COLOR]. Creado por El grupo PLD </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.Activador.tvguia" name="[COLOR green]Activador -PLD-TVGUIAHD[/COLOR]" version="2.1.0.3" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.1"/>
+	<import addon="script.module.beautifulsoup" version="3.2.1"/>
+  <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Activador para TVGUIAHD [COLOR blue]ProyectoLuzDigital[/COLOR]</summary>
+    <description>Activador para TVGUIA para [COLOR blue]ProyectoLuzDigital[/COLOR]. Creado por el GrupoPLD </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.adryanlist"
+       name="AdryanList"
+       version="2.0.1"
+       provider-name="Doc Shadrach">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>based on livestreamspro 2.0.1 by Shani</summary>
+    <description>Lista de canales de Adryan.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.live.pld"
+       name="[COLOR blue]player.proyectoluzdigital[/COLOR]"
+       version="2.3.4.1"
+       provider-name="[COLOR blue]player.proyectoluzdigital[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+     <summary>ProyectoLuz Digital- Muchas Gracias Al Creador Del Addons  Esto Es Solo Una Modificación)</summary>
+    <description lang="es"> Reproductor.proyectoluzdigital ofrecido para usted si tiene comentarios o sugerencias para este complemente, no dude en participar en el foro http://proyectoluzdigital.info/[CR]Plugin Modificado Por EL GRUPO PLD</description>
+   <description>
+       .
+	   Disfruten de este contenido totalmente gratis.
+
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.pld.visiontv" name="[COLOR purple]PLD.VisionTV[/COLOR]" version="1.0.1.9" provider-name="Juarrox y ProyectoLuzDigital">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="plugin.video.youtube" optional="true"/>
+	<import addon="plugin.video.SportsDevil" optional="true"/>
+	<import addon="plugin.video.p2p-streams" optional="true"/>
+	<import addon="program.plexus" optional="true"/>
+	<import addon="script.module.t0mm0.common" version="1.0.0"/>
+	<import addon="script.module.beautifulsoup" version="3.2.1"/>
+	<import addon="script.module.requests" />
+	<import addon="script.module.youtube.dl" optional="true"/>
+	<import addon="script.common.plugin.cache"/>
+    <import addon="script.module.m3u8" version="0.2.2"/>
+    <import addon="script.module.dateutil" version="2.4.2"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  <summary lang="en">[COLOR blue]PLD.VisionTV[/COLOR]</summary>
+    <description lang="en">[COLOR red][B][COLOR blue]PLD.VisionTV[/COLOR][/B][/COLOR] ESTE ADDON ES SOLO UNA MODIFICACION DE PALCO TV TODOS LOS MERITO SON PARA SU CREADOR Juarrox AL CUAL AGRADECEMOS TODO SU EFUERZO EN CREAR PALCO TV </description>
+    <disclaimer lang="en">[B]Queda prohibida la distribución de este addon junto con contenidos multimedia protegidos por derechos de autor.[/B] La vulneración de esta prohibición exonerará de culpa a su autor siendo el único responsable quien lo haya distribuido ilegalmente.</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="repository.pld" name="PLD" version="1.0.0" provider-name="PLD">
+	<extension point="xbmc.addon.repository" name="PLD">
+		<info compressed="false">https://raw.github.com/mmgomez6/PLD/master/addons.xml</info>
+		<checksum>https://raw.github.com/mmgomez6/PLD/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/mmgomez6/PLD/master</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>PLD</summary>
+   		<description lang="en">PLD</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
