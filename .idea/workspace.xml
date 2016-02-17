@@ -3,10 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d948fa25-a8f7-4be7-8edb-4551aedbe5d9" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/activador.p" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/changelog-1.0.9.5.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/changelog.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/cookies.lwp" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/default.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/intro.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/plugin.Activador.PLD-Visiontv-1.0.9.5.zip" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/SuperTV" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/__init__.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/advancedsettings.xml" afterPath="" />
@@ -26,96 +28,10 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/lib/weblogin.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/settings.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/activador.p" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/changelog.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/cookies.lwp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/default.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/intro.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/resources/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/resources/advancedsettings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/resources/com.xbmc.rtmpGUI.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/resources/imagenes/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/resources/imagenes/close-fo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/resources/imagenes/close-nofo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/resources/imagenes/noti_error.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/resources/imagenes/noti_informa.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/resources/imagenes/noti_informal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/resources/imagenes/noti_mail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/resources/imagenes/noti_maill.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/resources/lib/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/resources/lib/activador.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/resources/lib/gethtml.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/resources/lib/main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/resources/lib/weblogin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/resources/settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/activador.p" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/changelog.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/cookies.lwp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/default.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/intro.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/resources/SuperTV" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/resources/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/resources/advancedsettings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/resources/com.xbmc.rtmpGUI.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/resources/imagenes/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/resources/imagenes/close-fo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/resources/imagenes/close-nofo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/resources/imagenes/noti_error.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/resources/imagenes/noti_informa.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/resources/imagenes/noti_informal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/resources/imagenes/noti_mail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/resources/imagenes/noti_maill.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/resources/lib/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/resources/lib/activador.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/resources/lib/gethtml.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/resources/lib/main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/resources/lib/weblogin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/resources/settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/CustomPlayer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/RijndaelManaged.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/_DMsearch.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/_ytplist.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/cloudflare.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/default.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/genesisresolvers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/keepalive.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/oneplay.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/pkcs7.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/playtvfr.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/pyaes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/resources/settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/vipracing.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/wattv.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/youtubedl.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/CustomPlayer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/Images/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/Images/trans_checked.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/Images/trans_unchecked1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/RijndaelManaged.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/_DMsearch.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/_ytplist.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/changelog.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/channels_example.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/cloudflare.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/default.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/genesisresolvers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/intro.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/items_example.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/keepalive.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/m3ulistex_.m3u" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/oneplay.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/pkcs7.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/playtvfr.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/pyaes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/resources/settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/source_file" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/unCaptcha.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/vipracing.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/wattv.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/youtubedl.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/addon.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/fanart.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/plugin.video.adryanlist-2.0.1.zip" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/LICENSE.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/__init__.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/Thumbs.db" afterPath="" />
@@ -255,12 +171,14 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/veetle.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/xml.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/youtube.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/changelog-1.0.1.9.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/changelog.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/default.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/downloadtools.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/framescrape.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/ioncube.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/player.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/plugin.video.pld.visiontv-1.0.1.9.zip" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/plugintools.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/__init__.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/language/Spanish/strings.xml" afterPath="" />
@@ -353,6 +271,9 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/unpackerjs.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/unwise.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/version.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons.xml" afterPath="$PROJECT_DIR$/addons.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons.xml.md5" afterPath="$PROJECT_DIR$/addons.xml.md5" />
     </list>
     <ignored path="PLD.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -372,7 +293,7 @@
     <favorites_list name="PLD" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="repo_maker.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/repo_maker.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -419,7 +340,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -440,7 +361,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -610,24 +531,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -647,6 +568,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/repo_maker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repo_maker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/repo_maker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">

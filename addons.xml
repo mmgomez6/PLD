@@ -16,7 +16,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.Activador.PLD-Visiontv" name="[COLOR green]Activador PLD-Visiontv[/COLOR]" version="1.0.9.5" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
+<addon id="plugin.Activador.PLD-Visiontv" name="[COLOR green]Activador PLD-Visiontv[/COLOR]" version="1.0.9.6" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.1"/>
 	<import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -44,32 +44,6 @@
   <extension point="xbmc.addon.metadata">
     <summary>Activador para TVGUIAHD [COLOR blue]ProyectoLuzDigital[/COLOR]</summary>
     <description>Activador para TVGUIA para [COLOR blue]ProyectoLuzDigital[/COLOR]. Creado por el GrupoPLD </description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="plugin.video.adryanlist"
-       name="AdryanList"
-       version="2.0.1"
-       provider-name="Doc Shadrach">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" />
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>based on livestreamspro 2.0.1 by Shani</summary>
-    <description>Lista de canales de Adryan.</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -105,7 +79,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.pld.visiontv" name="[COLOR purple]PLD.VisionTV[/COLOR]" version="1.0.1.9" provider-name="Juarrox y ProyectoLuzDigital">
+<addon id="plugin.video.pld.visiontv" name="[COLOR purple]PLD.VisionTV[/COLOR]" version="1.0.2.0" provider-name="Juarrox y ProyectoLuzDigital">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="plugin.video.youtube" optional="true"/>
@@ -143,5 +117,24 @@
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
+</addon>
+
+<addon id="script.tvguideHD" name="[COLOR blue]PLDTV-GUIA-HD[/COLOR]" version="2.1.0.4" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.simplejson" version="2.0.10"/>
+        <import addon="script.module.elementtree" version="1.2.7"/>
+        <import addon="script.module.buggalo" version="1.1.2"/>
+    </requires>
+    <extension point="xbmc.python.script" library="addon.py"><provides>video</provides></extension>
+    <extension point="xbmc.python.script" library="addon.py"/>
+    <extension point="xbmc.service" library="service.py" start="login" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="es">TV Guide con XMLTV y soporte para streaming</summary>
+		<description lang="es">TV Guide ofrece una visión general de lo que hay en la televisión ahora mismo,</description>
+        <platform>all</platform>
+        <language></language>
+        <license>GPLv2</license>
+    </extension>
 </addon>
 </addons>
