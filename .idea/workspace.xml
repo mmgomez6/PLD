@@ -2,278 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d948fa25-a8f7-4be7-8edb-4551aedbe5d9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/activador.p" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/changelog-1.0.9.5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/changelog.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/cookies.lwp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/default.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/intro.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/plugin.Activador.PLD-Visiontv-1.0.9.5.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/SuperTV" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/advancedsettings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/com.xbmc.rtmpGUI.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/imagenes/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/imagenes/close-fo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/imagenes/close-nofo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/imagenes/noti_error.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/imagenes/noti_informa.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/imagenes/noti_informal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/imagenes/noti_mail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/imagenes/noti_maill.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/lib/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/lib/activador.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/lib/gethtml.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/lib/main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/lib/weblogin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/resources/settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/addon.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/fanart.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.adryanlist/plugin.video.adryanlist-2.0.1.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/adult.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/agenda2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/agenda2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/agendatv.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/albums_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/backgroundb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/28.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/31.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/33.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/34.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/35.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/37.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/38.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/39.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/41.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/43.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/44.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/45.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/46.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/47.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/49.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/51.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/53.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/54.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/55.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/56.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/58.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/59.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/60.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/61.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/62.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/63.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/65.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/66.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/67.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/68.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/69.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/70.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/71.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/73.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/74.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/75.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/76.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/77.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/78.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/79.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/80.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/81.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/82.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/83.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/84.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/85.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/86.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/87.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/88.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/89.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/90.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/91.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/92.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/93.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/94.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/95.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/97.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/98.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/99.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/black-background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/opencbx.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/settings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbx/versao.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/cbz.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/fanart.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/help_cbx.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/intro.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/jsn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/m3u7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/my_albums.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/name_rtmp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/new.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/p2p.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/plx3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/separator.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/seriesjuarrox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/slideshow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/special.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/splive.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/title_link.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/update.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/veetle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/xml.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/art/youtube.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/changelog-1.0.1.9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/changelog.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/default.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/downloadtools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/framescrape.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/ioncube.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/player.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/plugin.video.pld.visiontv-1.0.1.9.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/plugintools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/language/Spanish/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/broadcastlive.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/businessapp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/byetv.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/castalba.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/castalba2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/castdos.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/dinozap.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/directwatch.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/ezcast.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/freebroadcast.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/freetvcast.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/iguide.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/janjua.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/miplayernet.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/ninestream.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/rdmcast.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/sawlive.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/shidurlive.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/streamingfreetv.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/ucaster.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/vaughnlive.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/regex/vercosas.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/skins/Default/720p/menulateral.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/skins/Default/720p/menulateral_comosd+-.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/skins/Default/media/lateral-fechar-seleccionado.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/skins/Default/media/lateral-fechar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/skins/Default/media/lateral-fundo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/skins/Default/media/lateral-programa-seleccionado.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/skins/Default/media/lateral-programa.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/skins/Default/media/lateral-separador.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/skins/Default/media/lateral-stop-seleccionado.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/skins/Default/media/lateral-stop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/skins/Default/media/lateral-vermelho-seleccionado.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/skins/Default/media/lateral-vermelho.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/agendatv.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/bers_sy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/bum.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/context.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/dailymotion.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/encodingUtils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/epg_arenasport.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/epg_ehf.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/epg_elmundo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/epg_entutele.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/epg_formulatv.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/epg_ftvmov.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/epg_miguiatv.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/epg_mundoplus.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/epg_txt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/epg_verahora.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/fpa.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/futbolenlatv.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/getcookie.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/getposter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/getposter_extended.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/goear.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/jsunpack.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/kickass.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/livesoccertv.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/loadtxt_ftv.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/media_analyzer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/moviedb.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/multilink.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/mundoplus.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/net.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/nstream.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/oranline.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/pelisadicto.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/plugin_analyzer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/pordede.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/resolvers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/scrapertools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/seriesadicto.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/seriesblanco.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/seriesflv.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/seriesmu.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/seriesyonkis.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/server_rtmp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/txt_reader.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/unwise.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/wiz.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/resources/tools/yt_playlist.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/scrapertools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/unpackerjs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/unwise.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.pld.visiontv/version.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/changelog-2.2.8.4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/plugin.Activador.player.PLD-2.2.8.4.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/changelog-2.3.4.1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.live.pld/plugin.video.live.pld-2.3.4.1.zip" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons.xml" afterPath="$PROJECT_DIR$/addons.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons.xml.md5" afterPath="$PROJECT_DIR$/addons.xml.md5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/addon.xml" afterPath="$PROJECT_DIR$/plugin.Activador.player.PLD/addon.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.video.live.pld/addon.xml" afterPath="$PROJECT_DIR$/plugin.video.live.pld/addon.xml" />
     </list>
     <ignored path="PLD.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -341,6 +77,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -361,7 +98,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -533,7 +269,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -568,6 +304,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/repo_maker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/repo_maker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">

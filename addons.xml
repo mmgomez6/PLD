@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.Activador.player.PLD" name="[COLOR green]Activador PLAYER.PROYECTOLUZDIGITAL[/COLOR]" version="2.2.8.4" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
+<addon id="plugin.Activador.player.PLD" name="[COLOR green]Activador PLAYER.PROYECTOLUZDIGITAL[/COLOR]" version="2.2.8.5" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.1"/>
 	<import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -50,7 +50,7 @@
 
 <addon id="plugin.video.live.pld"
        name="[COLOR blue]player.proyectoluzdigital[/COLOR]"
-       version="2.3.4.1"
+       version="2.3.4.2"
        provider-name="[COLOR blue]player.proyectoluzdigital[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
