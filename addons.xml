@@ -142,7 +142,7 @@
 
 <addon
   id="plugin.video.SportsDevil"
-  version="[COLOR blue]2.0.3.0[/COLOR]"
+  version="[COLOR blue]2.0.3.2[/COLOR]"
   name="[COLOR blue]SportsDevil.ByPld[/COLOR]"
   provider-name="[COLOR lime]MaxMustermann, Al101, Hubbab3, Sattekop,Grupo Pld[/COLOR]">
   <requires>
@@ -157,7 +157,7 @@
   <extension point="xbmc.addon.metadata">
     <summary>[COLOR lime]EL GRUPO Y COLABORADORES DE[/COLOR] [COLOR blue]PLD[/COLOR]</summary>
     <description>[COLOR lime]ESTE PLUGIN A SIDO ACTUALIZADO POR EL GRUPO Y COLABORADORES DE[/COLOR] [COLOR blue]PLD[/COLOR]</description>
-	<description>[COLOR lime]FECHA ACTUALIZACION 04-2-2016[/COLOR]</description>
+	<description>[COLOR lime]FECHA ACTUALIZACION 09-3-2016[/COLOR]</description>
     <platform>all</platform>
   </extension>
 </addon>
