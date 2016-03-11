@@ -24,7 +24,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.Activador.player.PLD" name="[COLOR green]Activador PLAYER.PROYECTOLUZDIGITAL[/COLOR]" version="2.2.8.5" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
+<addon id="plugin.Activador.player.PLD" name="[COLOR green]Activador PLAYER.PROYECTOLUZDIGITAL[/COLOR]" version="2.2.8.8" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.1"/>
 	<import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -40,7 +40,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.Activador.PLD-Visiontv" name="[COLOR green]Activador PLD-Visiontv[/COLOR]" version="1.0.9.8" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
+<addon id="plugin.Activador.PLD-Visiontv" name="[COLOR green]Activador PLD-Visiontv[/COLOR]" version="1.0.9.9" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.1"/>
 	<import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -74,7 +74,7 @@
 
 <addon id="plugin.video.live.pld"
        name="[COLOR blue]player.proyectoluzdigital[/COLOR]"
-       version="2.3.4.2"
+       version="2.3.4.5"
        provider-name="[COLOR blue]player.proyectoluzdigital[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
