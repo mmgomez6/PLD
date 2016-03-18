@@ -93,6 +93,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="C:/Python27/python.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="Python.repo_maker">
     <configuration default="false" name="repo_maker" type="PythonConfigurationType" factoryName="Python" temporary="true">

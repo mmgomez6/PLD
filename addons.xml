@@ -40,7 +40,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.Activador.PLD-Visiontv" name="[COLOR green]Activador PLD-Visiontv[/COLOR]" version="1.0.9.9" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
+<addon id="plugin.Activador.PLD-Visiontv" name="[COLOR green]Activador PLD-Visiontv[/COLOR]" version="1.0.1.0" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.1"/>
 	<import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -56,7 +56,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.Activador.tvguia" name="[COLOR green]Activador -PLD-TVGUIAHD[/COLOR]" version="2.1.0.7" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
+<addon id="plugin.Activador.tvguia" name="[COLOR green]Activador -PLD-TVGUIAHD[/COLOR]" version="2.1.0.8" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.1"/>
 	<import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -103,7 +103,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.pld.visiontv" name="[COLOR purple]PLD.VisionTV[/COLOR]" version="1.0.2.1" provider-name="Juarrox y ProyectoLuzDigital">
+<addon id="plugin.video.pld.visiontv" name="[COLOR purple]PLD.VisionTV[/COLOR]" version="1.0.2.2" provider-name="Juarrox y ProyectoLuzDigital">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="plugin.video.youtube" optional="true"/>
@@ -176,7 +176,7 @@
 	</extension>
 </addon>
 
-<addon id="script.tvguideHD" name="[COLOR blue]PLDTV-GUIA-HD[/COLOR]" version="2.1.0.8" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
+<addon id="script.tvguideHD" name="[COLOR blue]PLDTV-GUIA-HD[/COLOR]" version="2.1.0.9" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.simplejson" version="2.0.10"/>
