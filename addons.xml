@@ -24,7 +24,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.Activador.player.PLD" name="[COLOR green]Activador PLAYER.PROYECTOLUZDIGITAL[/COLOR]" version="2.2.9.0" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
+<addon id="plugin.Activador.player.PLD" name="[COLOR green]Activador PLAYER.PROYECTOLUZDIGITAL[/COLOR]" version="2.3.0.1" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.1"/>
 	<import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -40,7 +40,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.Activador.PLD-Visiontv" name="[COLOR green]Activador PLD-Visiontv[/COLOR]" version="1.0.1.1" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
+<addon id="plugin.Activador.PLD-Visiontv" name="[COLOR green]Activador PLD-Visiontv[/COLOR]" version="2.2.0.1" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.1"/>
 	<import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -74,7 +74,7 @@
 
 <addon id="plugin.video.live.pld"
        name="[COLOR blue]player.proyectoluzdigital[/COLOR]"
-       version="2.3.4.6"
+       version="2.3.0.1"
        provider-name="[COLOR blue]player.proyectoluzdigital[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -84,14 +84,15 @@
     <import addon="script.module.requests" />
     <import addon="script.module.httplib2" />
     <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" />
+    <import addon="plugin.video.youtube" optional="true" />
     <import addon="script.module.urlresolver" optional="true"/>
     <import addon="script.module.simplejson" />
+     <import addon="script.module.livestreamer" optional="true"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
-  <extension point="xbmc.addon.metadata">
+   <extension point="xbmc.addon.metadata">
      <summary>ProyectoLuz Digital- Muchas Gracias Al Creador Del Addons  Esto Es Solo Una Modificación)</summary>
     <description lang="es"> Reproductor.proyectoluzdigital ofrecido para usted si tiene comentarios o sugerencias para este complemente, no dude en participar en el foro http://proyectoluzdigital.info/[CR]Plugin Modificado Por EL GRUPO PLD</description>
    <description>
@@ -103,7 +104,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.pld.visiontv" name="[COLOR purple]PLD.VisionTV[/COLOR]" version="1.0.2.3" provider-name="Juarrox y ProyectoLuzDigital">
+<addon id="plugin.video.pld.visiontv" name="[COLOR purple]PLD.VisionTV[/COLOR]" version="2.2.0.1" provider-name="Juarrox y ProyectoLuzDigital">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="plugin.video.youtube" optional="true"/>
