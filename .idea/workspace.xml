@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d948fa25-a8f7-4be7-8edb-4551aedbe5d9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/changelog-2.2.0.1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/plugin.Activador.PLD-Visiontv-2.2.0.1.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/changelog-2.3.0.1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/plugin.Activador.player.PLD-2.3.0.1.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/changelog-2.1.0.1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/plugin.Activador.tvguia-2.1.0.1.zip" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons.xml" afterPath="$PROJECT_DIR$/addons.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons.xml.md5" afterPath="$PROJECT_DIR$/addons.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/addon.xml" afterPath="$PROJECT_DIR$/plugin.Activador.PLD-Visiontv/addon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.Activador.player.PLD/addon.xml" afterPath="$PROJECT_DIR$/plugin.Activador.player.PLD/addon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.Activador.tvguia/addon.xml" afterPath="$PROJECT_DIR$/plugin.Activador.tvguia/addon.xml" />
-    </list>
+    <list default="true" id="d948fa25-a8f7-4be7-8edb-4551aedbe5d9" name="Default" comment="" />
     <ignored path="PLD.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -313,6 +300,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/repo_maker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/repo_maker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
