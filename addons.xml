@@ -40,7 +40,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.Activador.PLD-Visiontv" name="[COLOR green]Activador PLD-Visiontv[/COLOR]" version="2.2.0.7" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
+<addon id="plugin.Activador.PLD-Visiontv" name="[COLOR green]Activador PLD-Visiontv[/COLOR]" version="2.2.0.9" provider-name="[COLOR blue]Grupo-PLD[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.1"/>
 	<import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -50,8 +50,8 @@
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Activador para PLD-Visiontv [COLOR blue]ProyectoLuzDigital[/COLOR]</summary>
-    <description>Activador PLD-Visiontv para [COLOR blue]ProyectoLuzDigital[/COLOR]. Creado por El grupo PLD </description>
+    <summary>Activador para PLD-Visiontv [COLOR blue]GRUPO-PLD[/COLOR]</summary>
+    <description>Activador PLD-Visiontv para [COLOR blue]Grupo-PLD[/COLOR]. Creado por El grupo PLD </description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -104,7 +104,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.pld.visiontv" name="[COLOR purple]PLD.VisionTV[/COLOR]" version="2.2.0.6" provider-name="Juarrox y ProyectoLuzDigital">
+<addon id="plugin.video.pld.visiontv" name="[COLOR purple]PLD.VisionTV[/COLOR]" version="2.2.0.8" provider-name="Juarrox y Grupo-PLD">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="plugin.video.youtube" optional="true"/>
@@ -136,8 +136,8 @@
     <description lang="en">[COLOR red][B][COLOR blue]PLD.VisionTV[/COLOR][/B][/COLOR] ESTE ADDON ES SOLO UNA MODIFICACION DE PALCO TV TODOS LOS MERITO SON PARA SU CREADOR Juarrox AL CUAL AGRADECEMOS TODO SU EFUERZO EN CREAR PALCO TV </description>
     <disclaimer lang="en">[B]Queda prohibida la distribución de este addon junto con contenidos multimedia protegidos por derechos de autor.[/B] La vulneración de esta prohibición exonerará de culpa a su autor siendo el único responsable quien lo haya distribuido ilegalmente.</disclaimer>
     <platform>all</platform>
-	<website>https://proyectoluzdigital.info/</website>
-    <source>http://plddescargas.hostreo.com/repo/</source>
+	<website>https://grupo-pld.com/</website>
+    <source></source>
   </extension>
 </addon>
 
