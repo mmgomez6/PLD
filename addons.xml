@@ -40,7 +40,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.Activador.PLD-Visiontv" name="[COLOR green]Activador PLD-Visiontv[/COLOR]" version="2.2.0.9" provider-name="[COLOR blue]Grupo-PLD[/COLOR]">
+<addon id="plugin.Activador.PLD-Visiontv" name="[COLOR green]Activador PLD-Visiontv[/COLOR]" version="2.2.1.0" provider-name="[COLOR blue]Grupo-PLD[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.1"/>
 	<import addon="script.module.beautifulsoup" version="3.2.1"/>
